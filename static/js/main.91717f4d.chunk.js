@@ -1,0 +1,2 @@
+(this["webpackJsonpcountdown-timer-react-mobx"]=this["webpackJsonpcountdown-timer-react-mobx"]||[]).push([[0],{10:function(e,t,n){"use strict";n.r(t);var c=n(1),o=n(3),r=n.n(o),i=(n(8),n(0));function s(){return Object(i.jsxs)("div",{className:"App",children:[Object(i.jsx)("h1",{children:"Hello CodeSandbox"}),Object(i.jsx)("h2",{children:"Start editing to see some magic happen!"})]})}var d=document.getElementById("root");r.a.render(Object(i.jsx)(c.StrictMode,{children:Object(i.jsx)(s,{})}),d)},8:function(e,t,n){}},[[10,1,2]]]);
+//# sourceMappingURL=main.91717f4d.chunk.js.map

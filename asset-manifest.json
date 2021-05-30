@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://ninefivetwo.github.io/csb-i604t/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://ninefivetwo.github.io/csb-i604t/static/js/main.91717f4d.chunk.js",
+    "main.js.map": "https://ninefivetwo.github.io/csb-i604t/static/js/main.91717f4d.chunk.js.map",
+    "runtime-main.js": "https://ninefivetwo.github.io/csb-i604t/static/js/runtime-main.5e45f8db.js",
+    "runtime-main.js.map": "https://ninefivetwo.github.io/csb-i604t/static/js/runtime-main.5e45f8db.js.map",
+    "static/js/2.8f32b81e.chunk.js": "https://ninefivetwo.github.io/csb-i604t/static/js/2.8f32b81e.chunk.js",
+    "static/js/2.8f32b81e.chunk.js.map": "https://ninefivetwo.github.io/csb-i604t/static/js/2.8f32b81e.chunk.js.map",
+    "index.html": "https://ninefivetwo.github.io/csb-i604t/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://ninefivetwo.github.io/csb-i604t/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.8f32b81e.chunk.js.LICENSE.txt": "https://ninefivetwo.github.io/csb-i604t/static/js/2.8f32b81e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e45f8db.js",
+    "static/js/2.8f32b81e.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.91717f4d.chunk.js"
+  ]
+}
